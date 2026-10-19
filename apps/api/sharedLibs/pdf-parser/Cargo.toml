@@ -5,7 +5,7 @@ edition = "2021"
 
 [dependencies]
 libc = "0.2.0"
-lopdf = "0.36.0"
+lopdf = "0.42.0"
 
 [lib]
 crate-type = ["cdylib"]
