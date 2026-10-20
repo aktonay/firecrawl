@@ -73,7 +73,7 @@
     "@google-cloud/storage": "^7.16.0",
     "@nangohq/node": "^0.40.8",
     "@openrouter/ai-sdk-provider": "^0.4.5",
-    "@opentelemetry/auto-instrumentations-node": "^0.62.0",
+    "@opentelemetry/auto-instrumentations-node": "^0.75.0",
     "@opentelemetry/core": "^2.0.1",
     "@opentelemetry/exporter-trace-otlp-grpc": "^0.203.0",
     "@opentelemetry/resources": "^2.0.1",
