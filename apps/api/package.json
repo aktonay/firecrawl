@@ -143,7 +143,7 @@
     "robots-parser": "^3.0.1",
     "stripe": "^16.1.0",
     "supabase": "^1.77.9",
-    "systeminformation": "^5.22.11",
+    "systeminformation": "^5.33.16",
     "tldts": "^6.1.75",
     "tough-cookie": "^4.1.4",
     "turndown": "^7.1.3",
